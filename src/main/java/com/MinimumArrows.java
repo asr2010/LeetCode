@@ -47,8 +47,6 @@ public class MinimumArrows {
                 number_of_arrows++;
             }
         } 
-        return number_of_arrows;
-        
+        return number_of_arrows;   
     }
-    
 }
