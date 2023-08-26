@@ -176,7 +176,6 @@ buildNumber.properties
 
 ### VisualStudioCode ###
 .vscode/*
-!.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
@@ -194,3 +193,8 @@ buildNumber.properties
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/java,maven,visualstudiocode,intellij,git
+Ubuntu_key
+Ubuntu_key.pub
+target/*
+
+
